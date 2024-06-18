@@ -14,6 +14,13 @@ arr.forEach(function(val){
   console.log(val);
 })
 
+// --output 
+// foreach
+//  2
+//  3
+//  4
+//  5
+
 
 // map
 var arr2=[1,2,3,4] ;
@@ -25,6 +32,12 @@ console.log("map");
    return val*3
  })
  console.log(newa);
+
+
+map
+// output
+// : 3: 6: 9: 12
+
 
 //  filter
 console.log("filter");
