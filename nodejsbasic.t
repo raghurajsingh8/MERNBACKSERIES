@@ -49,3 +49,8 @@ npm ek aisi j jgah h jha hme ,koi accha code bnakar daal skata h aur hm use kr s
 _______________________________________________
 working with node and npm 
 npm init krenge to package.json file bnegi  jisme project  ka sb discription rhta ha 
+
+
+
+___________________________________________________________________________________________
+
